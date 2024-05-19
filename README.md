@@ -1,4 +1,3 @@
-
 Blood Bank Management System
 Welcome to the Blood Bank Management System project repository. This project is a comprehensive solution designed to manage blood bank operations effectively. The system is built with a user-friendly interface using HTML, CSS, and JavaScript, and is powered by Django on the backend, with additional enhancements provided by django-widget-tweaks.
 
