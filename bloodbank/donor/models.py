@@ -4,11 +4,7 @@ from django.contrib.auth.models import User
 class Donor(models.Model):
     user=models.OneToOneField(User,on_delete=models.CASCADE)
     profile_pic= models.ImageField(upload_to='profile_pic/Donor/',null=True,blank=True)
-
-    
     bloodgroup=models.CharField(max_length=10)
-    
-
     address = models.CharField(max_length=40)
     mobile = models.CharField(max_length=20,null=False)
    
