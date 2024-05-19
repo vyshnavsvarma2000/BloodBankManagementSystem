@@ -13,7 +13,7 @@ Welcome to the Blood Bank Management System project repository. This project is 
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: Django
 - **Enhancements**: django-widget-tweaks
 
