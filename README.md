@@ -23,8 +23,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/blood-bank-management-system.git
-    cd blood-bank-management-system
+    https://github.com/vyshnavsvarma2000/BloodBankManagementSystem.git
+    cd bloodbank
     ```
 
 2. **Create a virtual environment**:
